@@ -1,0 +1,19 @@
+@import '../style/palette.scss';
+
+.login__page{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+	background-color: $primary-color;
+	width: 100%;
+	min-height: 100vh;
+}
+.login__page-banner{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.login__page-img{
+	max-width: 500px;
+}
